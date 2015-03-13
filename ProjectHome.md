@@ -1,0 +1,1 @@
+WidenHome is a software, which is based on principles of accounting, manages personal finances professionally. [More...](http://www.widenhome.com/about.html)
